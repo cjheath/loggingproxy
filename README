@@ -1,0 +1,9 @@
+Usage: loggingproxy [ options ... ]
+	--host name		Connect to this computer
+	--port N		Connect to  this port
+	--listen N		Accept connections on this port
+	--base path		Base name for log files
+	--nolog		Don't write any log files
+	--http		Act like an HTTP proxy
+	--verbose		Timings etc
+	--help			Show this usage message
